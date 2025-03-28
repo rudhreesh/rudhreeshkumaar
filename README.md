@@ -7,7 +7,7 @@
 
 
 
-- 👋 Hi, I’m @rudhreeshkumaar
+- 👋 Hi, I’m @rudhreesh
 - 👀 I’m interested in Machine Learning and Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any DL projects
